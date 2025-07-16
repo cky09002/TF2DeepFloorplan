@@ -5,8 +5,9 @@ pdbpp
 scipy
 Pillow
 gdown
-protobuf==3.20.0
+protobuf = 4.21.5
 chardet
 types-requests
 pytype
 dynaconf
+tensorflow==2.19.0
